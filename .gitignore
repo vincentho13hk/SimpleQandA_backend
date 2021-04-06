@@ -31,3 +31,6 @@ appsettings.*
 
 # Visual Studio 2015
 .vs/
+
+# publish
+publish/
